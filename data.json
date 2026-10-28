@@ -1,0 +1,39 @@
+{
+  "title": "ROBORAT® Studios · awaiting first real research digest",
+  "date": "",
+  "timezone": "Asia/Manila",
+  "updated": "",
+  "virals_title": "Film, comedy and storytelling - last 48h",
+  "brand_title": "ROBORAT® Studios · X Virality Score",
+  "brand_handle": "@RoboRatX",
+  "operator": {
+    "handle": "@RoboRatX",
+    "name": "ROBORAT® Studios",
+    "profile_url": "https://x.com/RoboRatX"
+  },
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [],
+  "no_hits": [],
+  "virals_narrative": "",
+  "narrative_synthesis": "",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "day_roster": [],
+  "you_rank": null,
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "week": {
+      "label": "No collected data",
+      "entries": []
+    },
+    "month": {
+      "label": "No collected data",
+      "entries": []
+    }
+  },
+  "_comment": "Production starter. No live digest has run yet. Empty arrays are not reported research results. Offline smoke results are kept separate."
+}
